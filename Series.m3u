@@ -1,21 +1,12 @@
-#Series
-#EXTINF:0, La Casa de Papel (Póster, Tráiler, Episodios)
+#EXTINF:-1, Nombre de la Serie - Temporada 1
 https://image.tmdb.org/t/p/original/emeFo6OW5tE0BISzx0HEdVqOOgG.jpg
-https://example.com/contenido_unificado
-
-#Temporada 1
-#EXTINF:-1, Episodio 1 - "Episodio 1"
-https://hlswish.com/e/0v7w52yk60wh
-
-#EXTINF:-1, Episodio 2 - "Episodio 2"
-https://hlswish.com/e/0v7w52yk60wh
-
-#EXTINF:-1, Episodio 3 - "Episodio 3"
-https://hlswish.com/e/0v7w52yk60wh
-
-#Temporada 2
-#EXTINF:-1, Episodio 1 - "Episodio 1"
-https://hlswish.com/e/0v7w52yk60wh
-
-#EXTINF:-1, Episodio 2 - "Episodio 2"
-https://example.com/contenido_unificado_episodio5
+#EXTINF:-1, Temporada 1 - Episodio 1
+http://link/to/episode1.mp4
+#EXTINF:-1, Temporada 1 - Episodio 2
+http://link/to/episode2.mp4
+...
+#EXTINF:-1, Nombre de la Serie - Temporada 2
+http://link/to/cover-image.jpg
+#EXTINF:-1, Temporada 2 - Episodio 1
+http://link/to/episode1.mp4
+...
