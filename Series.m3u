@@ -24,7 +24,7 @@ https://hlswish.com/e/h18wcqi9w9rc
 
 # Carátula general de la Serie 2
 #EXTINF:-1 tvg-id="serie2" tvg-name="Serie 2" tvg-logo="https://image.tmdb.org/t/p/original/4cu2lhkpItl8JtSFVulBas4LE8X.jpg" group-title="Series", Serie 2 - Temporada 1
-http://example.com/series/serie2
+https://image.tmdb.org/t/p/original/4cu2lhkpItl8JtSFVulBas4LE8X.jpg
 
 # Episodios de la Serie 2 - Temporada 1
 #EXTINF:-1 tvg-id="serie2" tvg-name="Serie 2 - Temporada 1" tvg-logo="" group-title="Series", Serie 2 - S01E01 - Título del Episodio 1
