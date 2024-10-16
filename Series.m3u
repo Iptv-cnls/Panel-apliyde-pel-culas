@@ -1,6 +1,6 @@
 #EXTM3U
 # Carátula general de la Serie 1
-#EXTINF:-1 tvg-id="serie1" tvg-name="Serie 1" tvg-logo="http://example.com/images/serie1.jpg" group-title="Series", Serie 1 - Temporada 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Serie 1" tvg-logo="https://image.tmdb.org/t/p/original/2Gbdme8kozdrzb73BdaErzUVitS.jpg" group-title="Series", Serie 1 - Temporada 1
 http://example.com/series/serie1
 
 # Episodios de la Serie 1 - Temporada 1
@@ -25,7 +25,7 @@ http://example.com/series/serie1/temporada2/episodio2.m3u8
 
 
 # Carátula general de la Serie 2
-#EXTINF:-1 tvg-id="serie2" tvg-name="Serie 2" tvg-logo="http://example.com/images/serie2.jpg" group-title="Series", Serie 2 - Temporada 1
+#EXTINF:-1 tvg-id="serie2" tvg-name="Serie 2" tvg-logo="https://image.tmdb.org/t/p/original/4cu2lhkpItl8JtSFVulBas4LE8X.jpg" group-title="Series", Serie 2 - Temporada 1
 http://example.com/series/serie2
 
 # Episodios de la Serie 2 - Temporada 1
