@@ -1,20 +1,20 @@
 #EXTM3U
 # Carátula general de la Serie 1
-#EXTINF:-1 tvg-id="serie1" tvg-name="Serie 1" tvg-logo="https://image.tmdb.org/t/p/original/2Gbdme8kozdrzb73BdaErzUVitS.jpg" group-title="Series", Serie 1 - Temporada 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="portal" tvg-logo="https://image.tmdb.org/t/p/original/2Gbdme8kozdrzb73BdaErzUVitS.jpg" group-title="Series", Serie 1 - Temporada 1
 http://example.com/series/serie1
 
 # Episodios de la Serie 1 - Temporada 1
-#EXTINF:-1 tvg-id="serie1" tvg-name="Serie 1 - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="portal - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
 http://example.com/series/serie1/temporada1/episodio1.m3u8
-#EXTINF:-1 tvg-id="serie1" tvg-name="Serie 1 - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+#EXTINF:-1 tvg-id="serie1" tvg-name="portal - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
 http://example.com/series/serie1/temporada1/episodio2.m3u8
-#EXTINF:-1 tvg-id="serie1" tvg-name="Serie 1 - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+#EXTINF:-1 tvg-id="serie1" tvg-name="portal - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
 http://example.com/series/serie1/temporada1/episodio3.m3u8
 
 # Temporada 2 de la Serie 1
-#EXTINF:-1 tvg-id="serie1" tvg-name="Serie 1 - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E01 - Título del Episodio 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="porta - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E01 - Título del Episodio 1
 http://example.com/series/serie1/temporada2/episodio1.m3u8
-#EXTINF:-1 tvg-id="serie1" tvg-name="Serie 1 - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E02 - Título del Episodio 2
+#EXTINF:-1 tvg-id="serie1" tvg-name="portal - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E02 - Título del Episodio 2
 http://example.com/series/serie1/temporada2/episodio2.m3u8
 
 
