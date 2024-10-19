@@ -1,4 +1,14 @@
 #EXTM3U
+#Carátula general de la serie 2
+#EXTINF:-1 tvg-id="Anime1" tvg-name="La mente del poder (2024)" tvg-logo="https://image.tmdb.org/t/p/original/kniQ2yUCQtbfm7yMMwZ8mmK6ahT.jpg", Anime - Temporada 1
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="La mente del poder (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 2 - S01E01 - Título del Episodio 1
+https://hlswish.com/e/7jzah5l4btb8
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="La mente del poder (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 2 - S01E02 - Título del Episodio 2
+https://hlswish.com/e/n7z391bu4rch
+
+
 #Carátula general de la serie 3
 #EXTINF:-1 tvg-id="Anime1" tvg-name="Mi hombre es un Cupido (2023)" tvg-logo="https://image.tmdb.org/t/p/original/foteCZN3yD449HzoKfUZF5XtxxI.jpg" group-title="Series", Anime - Temporada 1
 
