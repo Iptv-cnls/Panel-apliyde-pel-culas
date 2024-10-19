@@ -1,9 +1,39 @@
 #EXTM3U
-#Carátula general de la Serie 2
-#EXTINF:-1 tvg-id="serie1" tvg-name="Teacup (2024)" tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg" group-title="Series", Serie 1 - Temporada 1
+#Carátula general del anime 1
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024)" tvg-logo="https://image.tmdb.org/t/p/original/2RwGhjr0KLTdgQMxGikB5Omfkb3.jpg" group-title="Anime", Anime - Temporada 1
 
-#EXTINF:-1 tvg-id="serie1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
-https://hlswish.com/e/uzsn3dvn9hc8
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E01 - Título del Episodio 1
+https://streamwish.to/e/6g0i9r639zj3
 
-#EXTINF:-1 tvg-id="serie1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
-https://hlswish.com/e/r7i58qnc7i16
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E02 - Título del Episodio 2
+https://cdnplaypro.com/e/5rkd6xixfimh
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E03 - Título del Episodio 3
+https://cdnplaypro.com/e/7mufkhjp9885
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E04 - Título del Episodio 4
+https://streamwish.to/e/2ne0xbjrbue5
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E05 - Título del Episodio 5
+https://streamwish.to/e/m0ta5pbgd1u9
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E06 - Título del Episodio 6
+https://streamwish.to/e/3dggih01nqk3
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E07 - Título del Episodio 7
+https://streamwish.to/e/yc7slgo43lg1
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E08 - Título del Episodio 8
+https://streamwish.to/e/pu0ugqi6yg2r
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E09 - Título del Episodio 9
+https://streamwish.to/e/ihow3s4iu8rw
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E010 - Título del Episodio 10
+https://streamwish.to/e/9oulc97qrcaz
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E011 - Título del Episodio 11
+https://streamwish.to/e/62svsmagy83o
+
+#EXTINF:-1 tvg-id="Anime1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Anime", Serie 1 - S01E012 - Título del Episodio 12
+https://streamwish.to/e/gz00y6lajofr
