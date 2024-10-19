@@ -1,7 +1,9 @@
-# Anime
+#EXTM3U
+#Carátula general de la Serie 2
+#EXTINF:-1 tvg-id="serie1" tvg-name="Teacup (2024)" tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg" group-title="Series", Serie 1 - Temporada 1
 
-#EXTINF:0, Abracadaver (2024)
-https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg
-https://SINTRAILER
-https://hlswish.com/e/mxq24z3adrwg
-https://cuty.io/FsuDb
+#EXTINF:-1 tvg-id="serie1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://hlswish.com/e/uzsn3dvn9hc8
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://hlswish.com/e/r7i58qnc7i16
