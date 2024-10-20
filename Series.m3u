@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTM3U
+#Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa King (2024)" tvg-logo="https://image.tmdb.org/t/p/original/zMFAdj30K84Sz90bCd6ePwiAO37.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa King (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://hlswish.com/e/litqd22ikx0t
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa King (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://hlswish.com/e/h9w024pfpk99
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa King - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://hlswish.com/e/2dfhl6yk7pat
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa King (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E04 - Título del Episodio 4
+https://hlswish.com/e/hug67f6lvb30
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa King (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E05 - Título del Episodio 5
+https://hlswish.com/e/1yu5rrwzo9uo
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E06 - Título del Episodio 6
+https://hlswish.com/e/lyso68or80bp
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E07 - Título del Episodio 7
+https://hlswish.com/e/xwle7pa7pogf
+
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E08 - Título del Episodio 8
+https://hlswish.com/e/y2ex6o3hecft
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E09 - Título del Episodio 9
+https://hlswish.com/e/3scpj9l1f4px
+
+
+
+
+
 #Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="Hysteria (2024)" tvg-logo="https://image.tmdb.org/t/p/original/rG3mGUouuSACs2KLdJWjEHpuG8L.jpg" group-title="Series", Serie 1 - Temporada 1
 
