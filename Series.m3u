@@ -1,4 +1,34 @@
 #EXTM3U
+#Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Hysteria (2024)" tvg-logo="https://image.tmdb.org/t/p/original/rG3mGUouuSACs2KLdJWjEHpuG8L.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Hysteria (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://hlswish.com/e/1t6ec0xvayth
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Hysteria (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://hlswish.com/e/n2tnjqgpki87
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Hysteria  (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://hlswish.com/e/vlm249xcc8mh
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Hysteria (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E04 - Título del Episodio 4
+https://hlswish.com/e/d5fac9msc907
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Hysteria (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E05 - Título del Episodio 5
+https://hlswish.com/e/1loq58wh3ccw
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Hysteria (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E06 - Título del Episodio 6
+https://hlswish.com/e/xr59x31df6wq
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Hysteria (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E07 - Título del Episodio 7
+https://hlswish.com/e/bw12xasvz4se
+
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Hysteria (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E08 - Título del Episodio 8
+https://hlswish.com/e/9gzqpctal0pp
+
+
+
 #Carátula general de la serie 2
 #EXTINF:-1 tvg-id="Anime1" tvg-name="La mente del poder (2024)" tvg-logo="https://image.tmdb.org/t/p/original/kniQ2yUCQtbfm7yMMwZ8mmK6ahT.jpg", Anime - Temporada 1
 
