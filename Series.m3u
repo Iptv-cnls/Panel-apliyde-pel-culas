@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa King (2024)" tvg-logo="https://image.tmdb.org/t/p/original/zMFAdj30K84Sz90bCd6ePwiAO37.jpg" group-title="Series", Serie 1 - Temporada 1
 
@@ -30,6 +29,31 @@ https://hlswish.com/e/y2ex6o3hecft
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E09 - Título del Episodio 9
 https://hlswish.com/e/3scpj9l1f4px
+
+# Temporada 2 de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa (2024) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E01 - Título del Episodio 1
+https://hlswish.com/e/x0zyzlexmac9
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa (2024) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E02 - Título del Episodio 2
+https://hlswish.com/e/rcxsysh05ib9
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa (2024) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E03 - Título del Episodio 3
+https://hlswish.com/e/23wchflps3u8
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa (2024) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E04 - Título del Episodio 4
+https://hlswish.com/e/8zoth46okphz
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa (2024) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E05 - Título del Episodio 5
+https://hlswish.com/e/hto9qj7djfte
+
+
+
+
+
+
+
+
+
 
 
 
