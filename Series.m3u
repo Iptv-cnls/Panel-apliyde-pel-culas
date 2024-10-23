@@ -1,5 +1,29 @@
 #EXTM3U
 #Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="El pinguino (2024)" tvg-logo="https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El pinguino (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://hlswish.com/e/jnxyu2w1wz1z
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El pinguino (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://hlswish.com/e/87dulghlpzh4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El pinguino (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://hlswish.com/e/jhoha9mgq8sx
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El pinguino (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E04 - Título del Episodio 4
+https://hlswish.com/e/3td7twtz6g8j
+
+
+
+
+
+
+
+
+
+
+#Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa King (2024)" tvg-logo="https://image.tmdb.org/t/p/original/zMFAdj30K84Sz90bCd6ePwiAO37.jpg" group-title="Series", Serie 1 - Temporada 1
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Tulsa King (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
@@ -144,12 +168,14 @@ https://streamwish.to/e/nyh00f40lfsd
 #EXTINF:-1 tvg-id="Anime1" tvg-name="Mi hombre es un Cupido (2023) - Temporada 1" tvg-logo="" group-title="Series", Serie 2 - S01E012 - Título del Episodio 14
 https://streamwish.to/e/ce6ztpgch99n
 
-
 #EXTINF:-1 tvg-id="Anime1" tvg-name="Mi hombre es un Cupido (2023) - Temporada 1" tvg-logo="" group-title="Series", Serie 2 - S01E011 - Título del Episodio 15
 https://streamwish.to/e/b5ozulsh53io
 
 #EXTINF:-1 tvg-id="Anime1" tvg-name="Mi hombre es un Cupido (2023) - Temporada 1" tvg-logo="" group-title="Series", Serie 2 - S01E012 - Título del Episodio 16
 https://streamwish.to/e/ssxb1vqokx4e
+
+
+
 
 
 
@@ -162,6 +188,8 @@ https://hlswish.com/e/uzsn3dvn9hc8
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Teacup (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
 https://hlswish.com/e/r7i58qnc7i16
+
+
 
 
 
