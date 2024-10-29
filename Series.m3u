@@ -1,5 +1,51 @@
 #EXTM3U
 #Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno (2024)" tvg-logo="https://image.tmdb.org/t/p/original/5veiuXxIy3NFsm7LMqLGs4A2vgt.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno(2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://hlswish.com/e/w6yoounpphdh
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://hlswish.com/e/bzysnv8w749v
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://hlswish.com/e/99iuk8fqo91e
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E04 - Título del Episodio 4
+https://hlswish.com/e/pqv6e0ool76h
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E05 - Título del Episodio 5
+https://hlswish.com/e/hn7y4x7ozewe
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E06 - Título del Episodio 6
+https://hlswish.com/e/yeoo6ngfu1ya
+
+
+
+# Temporada 2 de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno (2024) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E01 - Título del Episodio 1
+https://hlswish.com/e/rhidy3c1tzxa
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno (2024) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E02 - Título del Episodio 2
+https://hlswish.com/e/qdliyq1wqstp
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno (2024) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E03 - Título del Episodio 3
+https://hlswish.com/e/5ibx98oixh5e
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Rumbo al infierno (2024) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E04 - Título del Episodio 4
+https://hlswish.com/e/i4kfdvzkjbz1
+
+
+
+
+
+
+
+
+
+
+
+#Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="Superman & Lois (2024)" tvg-logo="https://image.tmdb.org/t/p/original/hoWkpACsrLgv4QMT4XCDrzoPdWN.jpg" group-title="Series", Serie 1 - Temporada 1
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Superman & Lois (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
