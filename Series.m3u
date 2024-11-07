@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTM3U
+#Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name=" La franquicia (2024) " tvg-logo="https://image.tmdb.org/t/p/original/y7viRN1PhYEuNdIaVCUcnnxv5l7.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="La franquicia (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://hlswish.com/e/yw6cao8k95ce
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="La franquicia (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://hlswish.com/e/njf7znuizj15
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="La franquicia (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://hlswish.com/e/76sbvze2ddiw
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="La franquicia (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E04 - Título del Episodio 4
+https://hlswish.com/e/358aef9g6zej
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="La franquicia (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E05 - Título del Episodio 5
+https://hlswish.com/e/cakjnh7nhnzj
+
 
 #Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="what if (2021)" tvg-logo="https://image.tmdb.org/t/p/original/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg" group-title="Series", Serie 1 - Temporada 1
