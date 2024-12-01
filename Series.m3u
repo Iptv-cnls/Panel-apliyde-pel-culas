@@ -1,6 +1,64 @@
 #EXTM3U
 
-#EXTM3U
+#Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020)" tvg-logo="https://image.tmdb.org/t/p/original/bkyl9GawmRGcWp4uer8SI0sjrL1.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://gdplayer.to/embed/?https://ok.ru/videoembed/1862243256867?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://gdplayer.to/embed/?https://ok.ru/videoembed/1862243060259?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://gdplayer.to/embed/?https://ok.ru/videoembed/1862243191331?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E04 - Título del Episodio 4
+https://gdplayer.to/embed/?https://ok.ru/videoembed/1862243453475?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E05 - Título del Episodio 5
+https://gdplayer.to/embed/?https://ok.ru/videoembed/1950383213091?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E06 - Título del Episodio 6
+https://gdplayer.to/embed/?https://ok.ru/videoembed/1862243519011?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E07 - Título del Episodio 7
+https://gdplayer.to/embed/?https://ok.ru/videoembed/1862243125795?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E08 - Título del Episodio 8
+https://gdplayer.to/embed/?https://ok.ru/videoembed/1862243322403?nochat=1
+
+
+
+
+# Temporada 2 de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E01 - Título del Episodio 1
+https://ok.ru/videoembed/4839298370290?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E02 - Título del Episodio 2
+https://ok.ru/videoembed/4839328647922?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E03 - Título del Episodio 3
+https://ok.ru/videoembed/4839328582386?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E04 - Título del Episodio 4
+https://ok.ru/videoembed/4839328713458?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E05 - Título del Episodio 5
+https://ok.ru/videoembed/4839425182450?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E06 - Título del Episodio 6
+https://ok.ru/videoembed/4839425116914?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E07 - Título del Episodio 7
+https://ok.ru/videoembed/4839425051378?nochat=1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020) - Temporada 2" tvg-logo="" group-title="Series", Serie 1 - S02E08 - Título del Episodio 8
+https://ok.ru/videoembed/4839441435378?nochat=1
+
+
+
+
+
 #Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name=" La franquicia (2024) " tvg-logo="https://image.tmdb.org/t/p/original/y7viRN1PhYEuNdIaVCUcnnxv5l7.jpg" group-title="Series", Serie 1 - Temporada 1
 
