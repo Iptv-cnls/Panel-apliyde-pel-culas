@@ -1,4 +1,16 @@
 #EXTM3U
+#Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Star Wars: Tripulación perdida (2024)" tvg-logo="https://image.tmdb.org/t/p/original/c2P7KSb4I2tY6uNX9eXXwo5hm46.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Star Wars: Tripulación perdida (2024)- Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://iplayerhls.com/e/hg8vnqnc8t1f
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Star Wars: Tripulación perdida (2024) - Temporada 1" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://hlswish.com/e/9gwc88kpr3kq
+
+
+
+
 
 #Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="Alice in Borderland (2020)" tvg-logo="https://image.tmdb.org/t/p/original/bkyl9GawmRGcWp4uer8SI0sjrL1.jpg" group-title="Series", Serie 1 - Temporada 1
